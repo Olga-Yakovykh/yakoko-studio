@@ -158,7 +158,7 @@ Partner.build({
               <Link to="/contact" className="group relative w-full sm:w-auto inline-flex items-center justify-center gap-3 px-10 py-5 bg-white/5 border border-white/20 text-white rounded-full font-bold text-[10px] uppercase tracking-[0.25em] transition-all duration-500 hover:bg-primary hover:border-primary hover:scale-[1.03] hover:shadow-2xl hover:shadow-primary/20 active:scale-95">
                 Start Your Project <ArrowUpRight size={14} className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
               </Link>
-              <Link to="/pricing" className="relative inline-flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.2em] text-neutral-400 transition-colors duration-300 hover:text-white after:absolute after:-bottom-1 after:left-0 after:h-px after:w-0 after:bg-primary after:transition-all after:duration-500 hover:after:w-full group">
+              <Link to="/pricing" className="group relative w-full sm:w-auto inline-flex items-center justify-center gap-2 px-10 py-5 bg-transparent border border-white/20 text-white rounded-full font-bold text-[10px] uppercase tracking-[0.25em] transition-all duration-500 hover:border-primary hover:text-primary hover:bg-white/5 active:scale-95">
                 View Pricing
                 <ArrowUpRight size={14} className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
               </Link>
