@@ -1,0 +1,30 @@
+# Yakoko Studio
+
+Website: https://yakoko-studio.com
+Name: Yakoko Studio
+Author: Olga Yakovykh
+
+Description:
+Yakoko Studio is an independent web development studio focused on building high-performance websites for small businesses, ecommerce brands and hospitality businesses.
+
+Primary Services:
+Custom Website Development
+Small Business Websites
+Ecommerce Websites
+Holiday Rental Websites
+Performance Optimization
+Conversion-focused UX
+
+Key Pages:
+https://yakoko-studio.com/
+https://yakoko-studio.com/small-business
+https://yakoko-studio.com/ecommerce
+https://yakoko-studio.com/holiday-rentals
+https://yakoko-studio.com/pricing
+https://yakoko-studio.com/contact
+
+Audience:
+Small business owners, hospitality businesses, property owners and ecommerce brands.
+
+Contact:
+https://yakoko-studio.com/contact
